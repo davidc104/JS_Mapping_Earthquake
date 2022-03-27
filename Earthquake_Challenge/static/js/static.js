@@ -1,0 +1,1 @@
+console.log("The is Earthquake Challenge in main");
